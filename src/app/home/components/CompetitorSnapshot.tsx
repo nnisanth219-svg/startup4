@@ -76,7 +76,7 @@ export default function CompetitorSnapshot() {
                       Criteria
                     </th>
                     <th className="px-4 py-5 text-center font-mono text-[10px] uppercase tracking-[0.3em]">
-                      <span className="text-emerald">Nexus</span>
+                      <span className="text-emerald">NEXUS</span>
                     </th>
                     <th className="px-4 py-5 text-center font-mono text-[10px] uppercase tracking-[0.3em] text-accent-muted">
                       Platform A

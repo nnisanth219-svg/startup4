@@ -1,8 +1,8 @@
 {
-  "name": "nexus",
+  "name": "NEXUS",
   "version": "0.1.0",
   "private": true,
-  "nexusCritical": {
+  "NEXUSCritical": {
     "dependencies": [
       "next",
       "react",

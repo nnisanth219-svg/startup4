@@ -1,4 +1,4 @@
-# Nexus
+# NEXUS
 
 A revolutionary enterprise collaboration platform built with Next.js 15, TypeScript, and Tailwind CSS.
 
@@ -29,7 +29,7 @@ A revolutionary enterprise collaboration platform built with Next.js 15, TypeScr
 ## 📁 Project Structure
 
 ```
-nexus/
+NEXUS/
 ├── public/             # Static assets
 ├── src/
 │   ├── app/            # App router components

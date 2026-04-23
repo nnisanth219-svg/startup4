@@ -8,7 +8,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Nexus — The Next Generation Platform Is Here.',
+  title: 'NEXUS — The Next Generation Platform Is Here.',
   description: 'Revolutionary platform transforming how teams collaborate. Real insights, zero fluff. Be first to experience the future.',
   icons: {
     icon: [
